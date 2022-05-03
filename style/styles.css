@@ -11,7 +11,7 @@
 
 body{
     background: var(--preto);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color: #fff;
 }
 
@@ -41,7 +41,7 @@ header nav a:hover{
 /* Filme Principal */
 .filme-principal{    
     background: url('/img/ozark01.jpg');    
-    height: 400px;    
+    height: 500px;    
     background-size:cover;
     font-size: 20px;
    
@@ -96,4 +96,14 @@ header nav a:hover{
 
 .filme-principal .container{
     width: 70%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrossel-filmes{
+    margin-top: 10px;
 }
