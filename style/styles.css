@@ -40,7 +40,7 @@ header nav a:hover {
 
 /* Filme Principal */
 .filme-principal {
-  background: url('/img/ozark01.jpg');
+  background: url('../img/ozark01.jpg');
   height: 500px;
   background-size: cover;
   font-size: 20px;
