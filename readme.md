@@ -1,4 +1,7 @@
 # Projeto Clone do Netflix
 
-## Links úteis
+### Link do projeto publicado no github pages
+
+
+### Links úteis
 www.themoviedb.org
